@@ -26,5 +26,5 @@ test {
 }
 
 application {
-	mainClassName = javaMainClass
+	mainClass.set("com.swissre.project.Portfolio")
 }
